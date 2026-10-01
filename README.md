@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Arman Uddin — Machine Learning, Deep Learning, and API development" width="100%" />
+  <img src="assets/banner.svg" alt="Arman Uddin. Machine Learning, Deep Learning, and API development" width="100%" />
 </p>
 
 <p align="center">
@@ -7,14 +7,14 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=3200&amp;pause=1400&amp;color=72E5C0&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Exploring+Machine+Learning+and+Deep+Learning;Currently+learning+FastAPI;Turning+curiosity+into+practical+projects" alt="Exploring Machine Learning and Deep Learning. Currently learning FastAPI." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=16&amp;duration=3200&amp;pause=1400&amp;color=72E5C0&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Exploring+Machine+Learning+and+Deep+Learning;Currently+learning+FastAPI;Building+projects+and+learning+new+skills" alt="Exploring Machine Learning and Deep Learning. Currently learning FastAPI." />
 </p>
 
 ## About me
 
-Hi, I'm **Arman Uddin**. I'm interested in **Machine Learning and Deep Learning**, particularly how models learn from data and solve practical problems. I'm currently learning **FastAPI** and exploring how to build APIs for useful applications.
+Hi, I'm **Arman Uddin**. I am interested in **Machine Learning and Deep Learning**. I want to learn how models use data to solve problems. I am currently learning **FastAPI** to build APIs.
 
-My public projects include work with **JavaScript and HTML**. I enjoy exploring other areas of technology and developing my skills through hands-on projects.
+I use **JavaScript and HTML** in my projects. I also explore other areas of technology. I learn new skills by building projects.
 
 ## Current focus
 
@@ -51,5 +51,5 @@ My public projects include work with **JavaScript and HTML**. I enjoy exploring 
 
 <p align="center">
   <a href="https://github.com/Arman-zz">Find me on GitHub</a><br />
-  <sub>Curiosity. Practice. Progress.</sub>
+  <sub>I am learning FastAPI and exploring Machine Learning and Deep Learning.</sub>
 </p>
