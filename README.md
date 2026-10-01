@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="assets/banner.svg" alt="Arman Uddin. Machine Learning, Deep Learning, and API development" width="100%" />
-</p>
-
-<p align="center">
   <strong>Machine Learning · Deep Learning · API Development</strong>
 </p>
 
